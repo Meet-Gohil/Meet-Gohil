@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on on Web-Development<br>🤝 I’m looking for Internship opportunity as Web developer.<br>🌱 I’m currently learning DSA in JAVA & WebDev.<br>⚡ CE'26 - VGEC
+🔭 I’m currently working on Web-Development<br>🤝 I’m looking for Internship opportunity as Web developer.<br>🌱 I’m currently learning DSA in JAVA & WebDev.<br>⚡ CE'26 - VGEC
 
 
 ## 🌐 Socials:
