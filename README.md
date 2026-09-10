@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://www.linkedin.com/in/meet-gohil-ba9256251/)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meet-gohil-ba9256251/)
 
 # 💻 Tech Stack:
 # 💻 Tech Stack:
